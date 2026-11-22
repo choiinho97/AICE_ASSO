@@ -1,0 +1,9 @@
+# Python 실행 환경과 임시 파일
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 환경변수
+.env
+.env.*
